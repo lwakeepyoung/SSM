@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SSM.iml" filepath="$PROJECT_DIR$/SSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/webapp.iml" filepath="$PROJECT_DIR$/webapp/webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webdao/webdao.iml" filepath="$PROJECT_DIR$/webdao/webdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webmanagement/webmanagement.iml" filepath="$PROJECT_DIR$/webmanagement/webmanagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webmodel/webmodel.iml" filepath="$PROJECT_DIR$/webmodel/webmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webparent/webparent.iml" filepath="$PROJECT_DIR$/webparent/webparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservices/webservices.iml" filepath="$PROJECT_DIR$/webservices/webservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webshiro/webshiro.iml" filepath="$PROJECT_DIR$/webshiro/webshiro.iml" />
+    </modules>
+  </component>
+</project>

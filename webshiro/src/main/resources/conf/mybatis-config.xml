@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration 
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+        <!--&lt;!&ndash; 命名空间 &ndash;&gt;-->
+    <typeAliases>
+         <typeAlias alias="User" type="com.lwa.model.User"/>
+    </typeAliases>
+
+    <!--&lt;!&ndash; 映射map &ndash;&gt;-->
+    <!--<mappers>-->
+    <!--</mappers>-->
+        <!-- 配置使用的PageHelper分页插件 -->
+    <!--<plugins>-->
+        <!--<plugin interceptor="com.github.pagehelper.PageHelper">-->
+            <!--&lt;!&ndash; 配置使用的数据库是什么 &ndash;&gt;-->
+            <!--&lt;!&ndash; 设置数据库类型 Oracle,Mysql,MariaDB,SQLite,Hsqldb,PostgreSQL六种数据库 &ndash;&gt;-->
+            <!--<property name="dialect" value="mysql" />-->
+        <!--</plugin>-->
+    <!--</plugins>-->
+</configuration>

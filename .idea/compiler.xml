@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="webapp" />
+        <module name="webdao" />
+        <module name="webmanagement" />
+        <module name="webmodel" />
+        <module name="webparent" />
+        <module name="webservices" />
+        <module name="webshiro" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="parent" target="1.8" />
+      <module name="SSM" target="1.8" />
+      <module name="webapp" target="1.8" />
+      <module name="webdao" target="1.8" />
+      <module name="webmanagement" target="1.8" />
+      <module name="webmodel" target="1.8" />
+      <module name="webparent" target="1.5" />
+      <module name="webservices" target="1.8" />
+      <module name="webshiro" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
