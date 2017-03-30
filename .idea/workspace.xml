@@ -2,84 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54d0b1c6-9a9c-4156-bd77-c5f5bf8eae00" name="Default" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;pom.xml&#10;#&#9;src/main/resource/conf/jdbc.properties&#10;#&#9;src/main/resource/conf/log4j.properties&#10;#&#9;src/main/resource/conf/spring-mvc.xml&#10;#&#9;src/main/resource/conf/spring.xml&#10;#&#9;src/main/resource/mapper/UserMapper.xml&#10;#&#9;src/main/resources/conf/jdbc.properties&#10;#&#9;src/main/resources/conf/log4j.properties&#10;#&#9;src/main/resources/conf/mybatis-config.xml&#10;#&#9;src/main/resources/conf/spring-mvc.xml&#10;#&#9;src/main/resources/conf/spring-mybatis.xml&#10;#&#9;src/main/resources/conf/spring.xml&#10;#&#9;src/main/resources/mapper/UserMapper.xml&#10;#&#9;webapp/src/main/resources/conf/properties/jdbc.properties&#10;#&#9;webapp/src/main/resources/conf/properties/log4j.properties&#10;#&#9;webapp/src/main/resources/conf/spring/spring-mvc.xml&#10;#&#9;webapp/src/main/resources/conf/spring/spring.xml&#10;#&#9;webapp/src/main/resources/mapper/UserMapper.xml">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__SSM_webshiro_0_0_1_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webmanagement/src/main/java/com/lwa/shiro/realm/MyRealm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webmanagement/src/main/webapp/WEB-INF/logs/log.log.2017-03-28" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/logs/log.log.2017-03-23" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/logs/log.log.2017-03-27" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/test/BaseJunit4Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/test/Demo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/test/It.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/test/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/test/ServiceTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/test/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/test/UserTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/springmvc/controller/UserController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/springmvc/dao/UserDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/springmvc/model/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/springmvc/service/UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/springmvc/service/impl/UserServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/conf/mybatis-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/conf/spring-mybatis.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webparent/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webparent/webparent.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webshiro/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webshiro/src/main/resources/conf/mybatis-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webshiro/src/main/resources/conf/properties/jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webshiro/src/main/resources/conf/properties/log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webshiro/src/main/resources/mapper/UserMapper.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/logs/log.log" afterPath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/logs/log.log.2017-03-28" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/webmanagement/src/main/resources/conf/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/target/classes/conf/jdbc.properties" afterPath="$PROJECT_DIR$/webmanagement/src/main/resources/conf/properties/jdbc.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/target/classes/conf/log4j.properties" afterPath="$PROJECT_DIR$/webmanagement/src/main/resources/conf/properties/log4j.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/target/classes/conf/spring-mvc.xml" afterPath="$PROJECT_DIR$/webmanagement/src/main/resources/conf/spring/spring-mvc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/target/classes/conf/spring.xml" afterPath="$PROJECT_DIR$/webmanagement/src/main/resources/conf/spring/spring.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/webapp/src/main/java/com/lwa/controller/UserController.java" afterPath="$PROJECT_DIR$/webmanagement/src/main/java/com/lwa/controller/UserController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/webapp/src/main/resources/conf/mybatis-config.xml" afterPath="$PROJECT_DIR$/webdao/src/main/resources/mybatis-config.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/webapp/src/main/resources/mapper/UserMapper.xml" afterPath="$PROJECT_DIR$/webdao/src/main/resources/mapper/UserMapper.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/webservices/src/main/java/service/UserService.java" afterPath="$PROJECT_DIR$/webservices/src/main/java/com/lwa/service/UserService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/webservices/src/main/java/service/impl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/webservices/src/main/java/com/lwa/service/impl/UserServiceImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/webshiro/src/main/resources/conf/logback.xml" afterPath="$PROJECT_DIR$/webmanagement/src/main/resources/logback.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/webshiro/src/main/resources/conf/spring/spring-mvc.xml" afterPath="$PROJECT_DIR$/webapp/src/main/resources/conf/spring/spring-mvc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/webshiro/src/main/resources/conf/spring/spring-mybatis.xml" afterPath="$PROJECT_DIR$/webmanagement/src/main/resources/conf/spring/spring-mybatis.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/webshiro/src/main/resources/conf/spring/spring-shiro.xml" afterPath="$PROJECT_DIR$/webmanagement/src/main/resources/conf/spring/spring-shiro.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/webshiro/src/main/resources/conf/spring/spring.xml" afterPath="$PROJECT_DIR$/webapp/src/main/resources/conf/spring/spring.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/webshiro/webshiro.iml" afterPath="$PROJECT_DIR$/webparent.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SSM.iml" afterPath="$PROJECT_DIR$/SSM.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/pom.xml" afterPath="$PROJECT_DIR$/webapp/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/resources/conf/spring/spring-mybatis.xml" afterPath="$PROJECT_DIR$/webapp/src/main/resources/conf/spring/spring-mybatis.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/resources/conf/spring/spring-shiro.xml" afterPath="$PROJECT_DIR$/webapp/src/main/resources/conf/spring/spring-shiro.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/logs/log.log" afterPath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/logs/log.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/logs/log.log.2017-03-23" afterPath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/logs/log.log.2017-03-23" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/logs/log.log.2017-03-27" afterPath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/logs/log.log.2017-03-27" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/webapp.iml" afterPath="$PROJECT_DIR$/webapp/webapp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webdao/pom.xml" afterPath="$PROJECT_DIR$/webdao/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webdao/webdao.iml" afterPath="$PROJECT_DIR$/webdao/webdao.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmanagement/pom.xml" afterPath="$PROJECT_DIR$/webmanagement/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmanagement/src/main/webapp/WEB-INF/logs/log.log" afterPath="$PROJECT_DIR$/webmanagement/src/main/webapp/WEB-INF/logs/log.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmanagement/src/main/webapp/WEB-INF/logs/log.log.2017-03-23" afterPath="$PROJECT_DIR$/webmanagement/src/main/webapp/WEB-INF/logs/log.log.2017-03-23" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmanagement/src/main/webapp/WEB-INF/logs/log.log.2017-03-27" afterPath="$PROJECT_DIR$/webmanagement/src/main/webapp/WEB-INF/logs/log.log.2017-03-27" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmanagement/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/webmanagement/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmanagement/webmanagement.iml" afterPath="$PROJECT_DIR$/webmanagement/webmanagement.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmodel/pom.xml" afterPath="$PROJECT_DIR$/webmodel/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmodel/src/main/java/com/lwa/model/User.java" afterPath="$PROJECT_DIR$/webmodel/src/main/java/com/lwa/model/User.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmodel/webmodel.iml" afterPath="$PROJECT_DIR$/webmodel/webmodel.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/pom.xml" afterPath="$PROJECT_DIR$/webservices/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/webservices.iml" afterPath="$PROJECT_DIR$/webservices/webservices.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/parent/target/" />
@@ -106,11 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webmanagement/src/main/resources/conf/properties/jdbc.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -246,6 +179,7 @@
         <option value="$PROJECT_DIR$/webmanagement/src/main/resources/conf/spring/spring-mybatis.xml" />
         <option value="$PROJECT_DIR$/webmanagement/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/webmanagement/src/main/resources/conf/properties/jdbc.properties" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -732,7 +666,14 @@
       <option name="project" value="LOCAL" />
       <updated>1490697712622</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;pom.xml&#10;#&#9;src/main/resource/conf/jdbc.properties&#10;#&#9;src/main/resource/conf/log4j.properties&#10;#&#9;src/main/resource/conf/spring-mvc.xml&#10;#&#9;src/main/resource/conf/spring.xml&#10;#&#9;src/main/resource/mapper/UserMapper.xml&#10;#&#9;src/main/resources/conf/jdbc.properties&#10;#&#9;src/main/resources/conf/log4j.properties&#10;#&#9;src/main/resources/conf/mybatis-config.xml&#10;#&#9;src/main/resources/conf/spring-mvc.xml&#10;#&#9;src/main/resources/conf/spring-mybatis.xml&#10;#&#9;src/main/resources/conf/spring.xml&#10;#&#9;src/main/resources/mapper/UserMapper.xml&#10;#&#9;webapp/src/main/resources/conf/properties/jdbc.properties&#10;#&#9;webapp/src/main/resources/conf/properties/log4j.properties&#10;#&#9;webapp/src/main/resources/conf/spring/spring-mvc.xml&#10;#&#9;webapp/src/main/resources/conf/spring/spring.xml&#10;#&#9;webapp/src/main/resources/mapper/UserMapper.xml">
+      <created>1490856103437</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1490856103437</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -756,7 +697,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272933" sideWeight="0.49356914" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.49356914" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25991425" sideWeight="0.4864865" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25991425" sideWeight="0.4864865" order="0" side_tool="false" content_ui="combo" x="162" y="175" width="485" height="548" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1036,6 +977,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1172,18 +1114,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/webmanagement/src/main/resources/conf/properties/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        <state relative-caret-position="90">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webmanagement/src/main/resources/conf/properties/jdbc.properties">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="450">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding />
         </state>
       </provider>
