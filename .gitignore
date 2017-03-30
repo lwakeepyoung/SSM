@@ -1,2 +1,16 @@
 .setting
 .project
+.idea
+webapp/src/main/java/
+webapp/target/apache-tomcat-maven-plugin/
+webapp/target/tomcat/webapps/
+webapp/target/tomcat/work/
+webdao/target/generated-sources/
+webmanagement/target/apache-tomcat-maven-plugin/
+webmanagement/target/generated-sources/
+webmanagement/target/tomcat/webapps/
+webmanagement/target/tomcat/work/
+webmodel/target/generated-sources/
+webservices/target/generated-sources/
+*workspace.xml
+*.iml
