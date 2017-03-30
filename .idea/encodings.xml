@@ -2,13 +2,18 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webapp" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webapp" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webdao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webdao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webmanagement" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webmanagement" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webmodel" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/webparent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webmodel" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webservices" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webservices" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webshiro" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webshiro" charset="UTF-8" />
   </component>
 </project>

@@ -10,9 +10,7 @@
         <module name="webdao" />
         <module name="webmanagement" />
         <module name="webmodel" />
-        <module name="webparent" />
         <module name="webservices" />
-        <module name="webshiro" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,7 +20,8 @@
       <module name="webdao" target="1.8" />
       <module name="webmanagement" target="1.8" />
       <module name="webmodel" target="1.8" />
-      <module name="webparent" target="1.5" />
+      <module name="webparent" target="1.8" />
+      <module name="webparent (1)" target="1.8" />
       <module name="webservices" target="1.8" />
       <module name="webshiro" target="1.8" />
     </bytecodeTargetLevel>

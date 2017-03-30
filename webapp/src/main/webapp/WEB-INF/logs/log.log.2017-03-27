@@ -98,9 +98,9 @@
 2017-03-27 18:40:22 [ localhost-startStop-1:1297 ] - [ DEBUG ] Returning cached instance of singleton bean 'propertyConfigurer2'
 2017-03-27 18:40:22 [ localhost-startStop-1:1297 ] - [ DEBUG ] Creating shared instance of singleton bean 'userServiceImpl'
 2017-03-27 18:40:22 [ localhost-startStop-1:1298 ] - [ DEBUG ] Creating instance of bean 'userServiceImpl'
-2017-03-27 18:40:23 [ localhost-startStop-1:1349 ] - [ DEBUG ] Registered injected element on class [service.impl.UserServiceImpl]: AutowiredFieldElement for private com.lwa.dao.UserDao service.impl.UserServiceImpl.userDao
+2017-03-27 18:40:23 [ localhost-startStop-1:1349 ] - [ DEBUG ] Registered injected element on class [UserServiceImpl]: AutowiredFieldElement for private com.lwa.dao.UserDao UserServiceImpl.userDao
 2017-03-27 18:40:23 [ localhost-startStop-1:1350 ] - [ DEBUG ] Eagerly caching bean 'userServiceImpl' to allow for resolving potential circular references
-2017-03-27 18:40:23 [ localhost-startStop-1:1359 ] - [ DEBUG ] Processing injected element of bean 'userServiceImpl': AutowiredFieldElement for private com.lwa.dao.UserDao service.impl.UserServiceImpl.userDao
+2017-03-27 18:40:23 [ localhost-startStop-1:1359 ] - [ DEBUG ] Processing injected element of bean 'userServiceImpl': AutowiredFieldElement for private com.lwa.dao.UserDao UserServiceImpl.userDao
 2017-03-27 18:40:23 [ localhost-startStop-1:1421 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
 2017-03-27 18:40:23 [ localhost-startStop-1:1439 ] - [ DEBUG ] Creating shared instance of singleton bean 'userDao'
 2017-03-27 18:40:23 [ localhost-startStop-1:1439 ] - [ DEBUG ] Creating instance of bean 'userDao'
@@ -470,9 +470,9 @@
 2017-03-27 18:41:30 [ localhost-startStop-1:1321 ] - [ DEBUG ] Returning cached instance of singleton bean 'propertyConfigurer2'
 2017-03-27 18:41:30 [ localhost-startStop-1:1321 ] - [ DEBUG ] Creating shared instance of singleton bean 'userServiceImpl'
 2017-03-27 18:41:30 [ localhost-startStop-1:1321 ] - [ DEBUG ] Creating instance of bean 'userServiceImpl'
-2017-03-27 18:41:30 [ localhost-startStop-1:1349 ] - [ DEBUG ] Registered injected element on class [service.impl.UserServiceImpl]: AutowiredFieldElement for private com.lwa.dao.UserDao service.impl.UserServiceImpl.userDao
+2017-03-27 18:41:30 [ localhost-startStop-1:1349 ] - [ DEBUG ] Registered injected element on class [UserServiceImpl]: AutowiredFieldElement for private com.lwa.dao.UserDao UserServiceImpl.userDao
 2017-03-27 18:41:30 [ localhost-startStop-1:1351 ] - [ DEBUG ] Eagerly caching bean 'userServiceImpl' to allow for resolving potential circular references
-2017-03-27 18:41:30 [ localhost-startStop-1:1367 ] - [ DEBUG ] Processing injected element of bean 'userServiceImpl': AutowiredFieldElement for private com.lwa.dao.UserDao service.impl.UserServiceImpl.userDao
+2017-03-27 18:41:30 [ localhost-startStop-1:1367 ] - [ DEBUG ] Processing injected element of bean 'userServiceImpl': AutowiredFieldElement for private com.lwa.dao.UserDao UserServiceImpl.userDao
 2017-03-27 18:41:31 [ localhost-startStop-1:1463 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
 2017-03-27 18:41:31 [ localhost-startStop-1:1481 ] - [ DEBUG ] Creating shared instance of singleton bean 'userDao'
 2017-03-27 18:41:31 [ localhost-startStop-1:1481 ] - [ DEBUG ] Creating instance of bean 'userDao'
@@ -580,9 +580,9 @@
 2017-03-27 18:41:46 [ localhost-startStop-1:1221 ] - [ DEBUG ] Returning cached instance of singleton bean 'propertyConfigurer2'
 2017-03-27 18:41:46 [ localhost-startStop-1:1221 ] - [ DEBUG ] Creating shared instance of singleton bean 'userServiceImpl'
 2017-03-27 18:41:46 [ localhost-startStop-1:1221 ] - [ DEBUG ] Creating instance of bean 'userServiceImpl'
-2017-03-27 18:41:46 [ localhost-startStop-1:1258 ] - [ DEBUG ] Registered injected element on class [service.impl.UserServiceImpl]: AutowiredFieldElement for private com.lwa.dao.UserDao service.impl.UserServiceImpl.userDao
+2017-03-27 18:41:46 [ localhost-startStop-1:1258 ] - [ DEBUG ] Registered injected element on class [UserServiceImpl]: AutowiredFieldElement for private com.lwa.dao.UserDao UserServiceImpl.userDao
 2017-03-27 18:41:46 [ localhost-startStop-1:1260 ] - [ DEBUG ] Eagerly caching bean 'userServiceImpl' to allow for resolving potential circular references
-2017-03-27 18:41:46 [ localhost-startStop-1:1268 ] - [ DEBUG ] Processing injected element of bean 'userServiceImpl': AutowiredFieldElement for private com.lwa.dao.UserDao service.impl.UserServiceImpl.userDao
+2017-03-27 18:41:46 [ localhost-startStop-1:1268 ] - [ DEBUG ] Processing injected element of bean 'userServiceImpl': AutowiredFieldElement for private com.lwa.dao.UserDao UserServiceImpl.userDao
 2017-03-27 18:41:46 [ localhost-startStop-1:1332 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
 2017-03-27 18:41:46 [ localhost-startStop-1:1347 ] - [ DEBUG ] Creating shared instance of singleton bean 'userDao'
 2017-03-27 18:41:46 [ localhost-startStop-1:1348 ] - [ DEBUG ] Creating instance of bean 'userDao'
